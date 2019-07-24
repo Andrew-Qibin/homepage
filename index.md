@@ -8,8 +8,8 @@ At present, I am a research fellow working with Prof. Jiashi Feng at National Un
 
 ## Activities
 
-2019-    : Research fellow at NUS
-2016-2019: Ph.D. student at Nankai University
++ 2019-    : Research fellow at NUS
++ 2016-2019: Ph.D. student at Nankai University
 
 ## Publications
 
