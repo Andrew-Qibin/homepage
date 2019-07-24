@@ -1,8 +1,6 @@
-![Photo](https://github.com/Andrew-Qibin/profile/blob/master/houqb.jpg) Qibin Hou (侯淇彬)
 I received my Ph.D. degree from Nankai University under the supervision of Prof. Ming-Ming Cheng.
-After that, I moved to National University of Singapore as a research fellow working with Prof. Jiashi Feng.
+At present, I am a research fellow working with Prof. Jiashi Feng at National University of Singapore.
 
-## Awards and Honors
 
 ## Publications
 
