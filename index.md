@@ -1,6 +1,15 @@
 I received my Ph.D. degree from Nankai University under the supervision of Prof. Ming-Ming Cheng.
 At present, I am a research fellow working with Prof. Jiashi Feng at National University of Singapore.
 
+## News
+
++ One paper was accepted by ICCV2019
++ Two papers were accepted by CVPR2019
+
+## Activities
+
+2019-    : Research fellow at NUS
+2016-2019: Ph.D. student at Nankai University
 
 ## Publications
 
