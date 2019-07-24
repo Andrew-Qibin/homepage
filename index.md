@@ -1,7 +1,7 @@
 ---
 title: Qibin Hou (侯淇彬)
 feature_text: |
-   About me 
+   About me
 feature_image: "https://picsum.photos/2560/600?image=873"
 excerpt: "About me"
 aside: true
