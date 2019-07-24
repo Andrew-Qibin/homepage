@@ -23,5 +23,13 @@ minima:
     github:  Andrew-Qibin
 
 plugins:
- - jekyll-feed
- - jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-mentions
+- jekyll-paginate
+- jekyll-seo-tag
+- jekyll-redirect-from
+- jekyll-default-layout
+- jekyll-feed
+- jekyll-commonmark
+- jekyll-include-cache
+- jemoji
