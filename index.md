@@ -3,11 +3,11 @@
 
 ![A picture of a cat](https://github.com/Andrew-Qibin/homepage/raw/master/houqb.jpg){: style="float: left;margin-right: 7px;margin-top: 7px;" height="120" width="160"}
 
-&#160;&#160;  > ***Deeply Supervised Salient Object Detection with Short Connections***       
-  <sub>**Qibin Hou**, Ming-Ming Cheng, Xiaowei Hu, Ali Borji, Zhuowen Tu, Philip Torr  
-  IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017   
-  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2019   
-  [PDF] [Project page] <font color="#660000">[Code]</font></sub>
+&#160;&#160; ***Deeply Supervised Salient Object Detection with Short Connections***       
+&#160;&#160; <sub>**Qibin Hou**, Ming-Ming Cheng, Xiaowei Hu, Ali Borji, Zhuowen Tu, Philip Torr  
+&#160;&#160;IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017   
+&#160;&#160;IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2019   
+&#160;&#160;[PDF] [Project page] <font color="#660000">[Code]</font></sub>
 
 
 ## News
