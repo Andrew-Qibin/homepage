@@ -1,11 +1,13 @@
 ---
 title: Qibin Hou (侯淇彬)
-
 ---
 
 | <img style="float: left;" src="https://picsum.photos/2560/600?image=873" height="80" width="100"> | Continue markdown text... |
 | --- | --- |
 | <img style="float: left;" src="https://picsum.photos/2560/600?image=873" height="80" width="100"> | Continue markdown text... |
+
+![A picture of a cat](https://picsum.photos/2560/600?image=873){: style="float:left"}
+Continue markdown text...
 
 <img style="float: left;" src="https://picsum.photos/2560/600?image=873" height="80" width="100">
 Continue markdown text...
