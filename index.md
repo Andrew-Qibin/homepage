@@ -1,6 +1,5 @@
----
-title: Qibin Hou (侯淇彬)
----
+
+## Publications
 
 <img style="float: left;" src="https://picsum.photos/2560/600?image=873" height="120" width="160" align=left>
 
