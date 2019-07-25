@@ -3,6 +3,8 @@
 
 <img style="float: left;" src="https://github.com/Andrew-Qibin/homepage/raw/master/houqb.jpg" height="120" width="160" align=left>
 
+![A picture of a cat](https://github.com/Andrew-Qibin/homepage/raw/master/houqb.jpg){: style="float:left"}
+
   ***Deeply Supervised Salient Object Detection with Short Connections***       
   <sub>**Qibin Hou**, Ming-Ming Cheng, Xiaowei Hu, Ali Borji, Zhuowen Tu, Philip Torr  
   IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017   
