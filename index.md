@@ -1,7 +1,7 @@
 
 ## Publications
 
-
+<img style="float: left;" src="https://picsum.photos/2560/600?image=873" height="120" width="160" align=left>
 
   ***Deeply Supervised Salient Object Detection with Short Connections***       
   <sub>**Qibin Hou**, Ming-Ming Cheng, Xiaowei Hu, Ali Borji, Zhuowen Tu, Philip Torr  
