@@ -1,7 +1,7 @@
 
 ## Publications
 
-![A picture of a cat](https://github.com/Andrew-Qibin/homepage/raw/master/houqb.jpg){: style="float:left" height="120" width="160"}
+![A picture of a cat](https://github.com/Andrew-Qibin/homepage/raw/master/houqb.jpg){: style="float: left;margin-right: 7px;margin-top: 7px;" height="120" width="160"}
 
 &#160;&#160;  ***Deeply Supervised Salient Object Detection with Short Connections***       
   <sub>**Qibin Hou**, Ming-Ming Cheng, Xiaowei Hu, Ali Borji, Zhuowen Tu, Philip Torr  
