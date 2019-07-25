@@ -4,7 +4,7 @@ title: Qibin Hou (侯淇彬)
 
 <img style="float: left;" src="https://picsum.photos/2560/600?image=873" height="120" width="160" align=left>
 
->  ***Deeply Supervised Salient Object Detection with Short Connections***       
+  ***Deeply Supervised Salient Object Detection with Short Connections***       
   <sub>**Qibin Hou**, Ming-Ming Cheng, Xiaowei Hu, Ali Borji, Zhuowen Tu, Philip Torr  
   IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017   
   IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2019   
