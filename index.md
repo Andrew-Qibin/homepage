@@ -28,10 +28,10 @@
 #### "*" means authors contributed equally
 
 >  ***Deeply Supervised Salient Object Detection with Short Connections***       
-  <sub>**Qibin Hou**, Ming-Ming Cheng, Xiaowei Hu, Ali Borji, Zhuowen Tu, Philip Torr  
+  **Qibin Hou**, Ming-Ming Cheng, Xiaowei Hu, Ali Borji, Zhuowen Tu, Philip Torr  
   IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017   
   IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2019   
-  [[PDF]](https://arxiv.org/pdf/1611.04849.pdf) [[Project page]](https://mmcheng.net/dss/) [<font color="#CC0000">[Code]</font> ](https://github.com/Andrew-Qibin/DSS) </sub>
+  [[PDF]](https://arxiv.org/pdf/1611.04849.pdf) [[Project page]](https://mmcheng.net/dss/) [<font color="#CC0000">[Code]</font> ](https://github.com/Andrew-Qibin/DSS)
   
   
 >  ***Strip Pooling: Rethinking Spatial Pooling for Scene Parsing***       
