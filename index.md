@@ -41,7 +41,7 @@
   
   
 >  ***A Simple Pooling-Based Design for Real-Time Salient Object Detection***       
-  <sub>Jiang-Jiang Liu*, **Qibin Hou***, Ming-Ming Cheng, Jiashi Feng, Jianmin Jiang  
+  <sub>Jiang-Jiang Liu*, **Qibin Hou** *, Ming-Ming Cheng, Jiashi Feng, Jianmin Jiang  
   IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019   
   [[PDF]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_A_Simple_Pooling-Based_Design_for_Real-Time_Salient_Object_Detection_CVPR_2019_paper.pdf) [<font color="#CC0000">[Code]</font>](https://github.com/backseason/PoolNet)</sub>   
 
