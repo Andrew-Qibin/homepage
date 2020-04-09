@@ -36,37 +36,44 @@ Research Interests
   </sub>
 </blockquote>
  
-> ***Deeply Supervised Salient Object Detection with Short Connections***      
-  <sub> **Qibin Hou**, Ming-Ming Cheng, Xiaowei Hu, Ali Borji, Zhuowen Tu, Philip Torr    
-  IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017      
-  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2019          
-  [[PDF]](https://arxiv.org/pdf/1611.04849.pdf) [[Project page]](https://mmcheng.net/dss/) [<font color="#CC0000">[Code]</font>](https://github.com/Andrew-Qibin/DSS)</sub>
+<blockquote style="color: black;  border-width: 12px; border-color: orange">   
+  <h4><b>Strip Pooling: Rethinking Spatial Pooling for Scene Parsing</b></h4>   
+  <sub><p style="line-height:15px"> <b>Qibin Hou</b>, Li Zhang, Ming-Ming Cheng, Jiashi Feng</p> 
+  <p style="line-height:15px">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020</p>   
+  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/2003.13328.pdf">[Arxiv]</a> <a href="https://github.com/Andrew-Qibin/SPNet">[Code]</a></p>   
+  </sub>
+</blockquote>
   
->  ***Strip Pooling: Rethinking Spatial Pooling for Scene Parsing***       
-  <sub>**Qibin Hou**, Li Zhang, Ming-Ming Cheng, Jiashi Feng  
-  IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020   
-  [[PDF]](https://arxiv.org/pdf/2003.13328.pdf) [<font color="#CC0000">[Code]</font>](https://github.com/Andrew-Qibin/SPNet)</sub>   
-  
->  ***Improving Convolutional Networks with Self-Calibrated Convolutions***       
-  <sub>Jiang-Jiang Liu*, **Qibin Hou** *, Ming-Ming Cheng, Changhu Wang, Jiashi Feng    
-  IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020   
-  [[PDF]](https://arxiv.org/pdf/2003.13328.pdf) <font color="#CC0000">[Code coming soon]</font> </sub>   
-  
->  ***Neural Epitome Search for Architecture-Agnostic Network Compression***       
-  <sub>Daquan Hou, Xiaojie Jin, **Qibin Hou**, Kaixin Wang, Jianchao Yang, Jiashi Feng   
-  The International Conference on Learning Representations (ICLR), 2020   
-  [[PDF]](https://arxiv.org/pdf/1907.05642.pdf) <font color="#CC0000">[Code coming soon]</font></sub>  
-  
-  
->  ***A Simple Pooling-Based Design for Real-Time Salient Object Detection***       
-  <sub>Jiang-Jiang Liu*, **Qibin Hou** *, Ming-Ming Cheng, Jiashi Feng, Jianmin Jiang  
-  IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019   
-  [[PDF]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_A_Simple_Pooling-Based_Design_for_Real-Time_Salient_Object_Detection_CVPR_2019_paper.pdf) [<font color="#CC0000">[Code]</font>](https://github.com/backseason/PoolNet)</sub>   
+<blockquote style="color: black;  border-width: 12px; border-color: orange">   
+  <h4><b>Improving Convolutional Networks with Self-Calibrated Convolutions</b></h4>   
+  <sub><p style="line-height:15px"> Jiang-Jiang Liu*, <b>Qibin Hou*</b>, Ming-Ming Cheng, Changhu Wang, Jiashi Feng</p> 
+  <p style="line-height:15px">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020</p>   
+  <p style="line-height:15px"> <a href="http://mftp.mmcheng.net/Papers/20cvprSCNet.pdf">[Arxiv]</a></p>   
+  </sub>
+</blockquote>
 
+<blockquote style="color: black;  border-width: 12px; border-color: orange">   
+  <h4><b>Neural Epitome Search for Architecture-Agnostic Network Compression</b></h4>   
+  <sub><p style="line-height:15px"> Daquan Hou, Xiaojie Jin, <b>Qibin Hou</b>, Kaixin Wang, Jianchao Yang, Jiashi Feng </p> 
+  <p style="line-height:15px">The International Conference on Learning Representations (ICLR), 2020 </p>   
+  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/1907.05642.pdf">[Arxiv]</a></p>   
+  </sub>
+</blockquote>
 
->  ***Self-Earsing Networks for Integral Object Attention***       
-  <sub>**Qibin Hou**, Peng-Tao Jiang, Yunchao Wei, Ming-Ming Cheng  
-  Advances in Neural Information Processing Systems (NeurIPS), 2018  
-  [[PDF]](https://papers.nips.cc/paper/7336-self-erasing-network-for-integral-object-attention.pdf)  [<font color="#CC0000">[Code]</font>](https://github.com/Andrew-Qibin/SeeNet)</sub>   
+<blockquote style="color: black;  border-width: 12px; border-color: orange">   
+  <h4><b>A Simple Pooling-Based Design for Real-Time Salient Object Detection</b></h4>   
+  <sub><p style="line-height:15px"> Jiang-Jiang Liu*, <b>Qibin Hou*</b>, Ming-Ming Cheng, Jiashi Feng, Jianmin Jiang</p> 
+  <p style="line-height:15px">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019</p>   
+  <p style="line-height:15px"> <a href="http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_A_Simple_Pooling-Based_Design_for_Real-Time_Salient_Object_Detection_CVPR_2019_paper.pdf">[Arxiv]</a> <a href="https://github.com/backseason/PoolNet">[Code]</a></p>   
+  </sub>
+</blockquote>
+
+<blockquote style="color: black;  border-width: 12px; border-color: orange">   
+  <h4><b>Self-Earsing Networks for Integral Object Attention</b></h4>   
+  <sub><p style="line-height:15px"> <b>Qibin Hou</b>, Peng-Tao Jiang, Yunchao Wei, Ming-Ming Cheng </p> 
+  <p style="line-height:15px">Advances in Neural Information Processing Systems (NeurIPS), 2018</p>   
+  <p style="line-height:15px"> <a href="https://papers.nips.cc/paper/7336-self-erasing-network-for-integral-object-attention.pdf">[Arxiv]</a> <a href="https://github.com/Andrew-Qibin/SeeNet">[Code]</a></p>   
+  </sub>
+</blockquote>
   
   
