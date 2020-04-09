@@ -6,7 +6,9 @@
   Qibin Hou received his Ph.D. degree from Nankai University under the supervision of Prof. Ming-Ming Cheng.
   At present, he is a research fellow at National University of Singapore working with Prof. Jiashi Feng.
   
-  `Computer Vision` `Deep Learning`
+  `Semantic Segmentation` `Instance Segmentation` `Architecture Design` `Neural Architecture Search`
+
+
 
 
 ## News
