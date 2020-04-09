@@ -28,14 +28,12 @@ Research Interests
 ## Selected Publications ([Google Scholar](https://scholar.google.com/citations?user=fF8OFV8AAAAJ&hl=en))
 
 #### "*" means authors contributed equally
-
-<blockquote style="color: block;  border-width: 15px;">   
-  <p>Deeply Supervised Salient Object Detection with Short Connections</p>      
-  <sub> <p>Qibin Hou, Ming-Ming Cheng, Xiaowei Hu, Ali Borji, Zhuowen Tu, Philip Torr  </p>     
-  <p>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017     </p>   
-  <p>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2019  </p>       
-  <p>[[PDF]](https://arxiv.org/pdf/1611.04849.pdf) [[Project page]](https://mmcheng.net/dss/) [<font color="#CC0000">[Code]</font>](https://github.com/Andrew-Qibin/DSS) </p>
-  </sub>
+ 
+> ***Deeply Supervised Salient Object Detection with Short Connections***      
+  <sub> **Qibin Hou**, Ming-Ming Cheng, Xiaowei Hu, Ali Borji, Zhuowen Tu, Philip Torr    
+  IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017      
+  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2019          
+  [[PDF]](https://arxiv.org/pdf/1611.04849.pdf) [[Project page]](https://mmcheng.net/dss/) [<font color="#CC0000">[Code]</font>](https://github.com/Andrew-Qibin/DSS)</sub>
   
 </blockquote>
   
