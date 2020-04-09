@@ -1,16 +1,11 @@
-
-
   
-
-  Qibin Hou received his Ph.D. degree from Nankai University under the supervision of Prof. Ming-Ming Cheng in 2019.6.
-  After that, he is a research fellow at National University of Singapore working with Prof. Jiashi Feng.
+<img align="left" height="160" width="140" src="https://github.com/Andrew-Qibin/homepage/raw/master/houqb.jpg"> Qibin Hou received his Ph.D. degree from Nankai University under the supervision of Prof. Ming-Ming Cheng in 2019.6.
+After that, he is a research fellow at National University of Singapore working with Prof. Jiashi Feng.
   
-<img align="left" src=”https://github.com/Andrew-Qibin/homepage/raw/master/houqb.jpg”> 
-  
-  Research Interests
+Research Interests
 
-  `Semantic Segmentation` `Instance Segmentation` `Object Detection` `Salient Object Detection` 
-  `Architecture Design` `Neural Architecture Search`.    
+`Semantic Segmentation` `Instance Segmentation` `Object Detection` `Salient Object Detection` 
+`Architecture Design` `Neural Architecture Search`.    
   
   
 
