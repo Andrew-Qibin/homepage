@@ -25,7 +25,7 @@
 + 2019-    : Research fellow at NUS
 + 2016-2019: Ph.D. student at Nankai University
 
-## Publications
+## Selected Publications ([Google Scholar](https://scholar.google.com/citations?user=fF8OFV8AAAAJ&hl=en))
 
 >  ***Deeply Supervised Salient Object Detection with Short Connections***       
   <sub>**Qibin Hou**, Ming-Ming Cheng, Xiaowei Hu, Ali Borji, Zhuowen Tu, Philip Torr  
