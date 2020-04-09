@@ -32,7 +32,7 @@ Research Interests
   <sub><p style="line-height:15px"> <b>Qibin Hou</b>, Ming-Ming Cheng, Xiaowei Hu, Ali Borji, Zhuowen Tu, Philip Torr</p> 
   <p style="line-height:15px">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017</p> 
   <p style="line-height:15px">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2019</p>   
-  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/1611.04849.pdf">[Arxiv]</a> <a href="https://github.com/Andrew-Qibin/DSS">[Code]</a></p>   
+  <p style="line-height:15px"> <a href="https://arxiv.org/pdf/1611.04849.pdf">[Arxiv]</a> <a style="color:#000000“ href="https://github.com/Andrew-Qibin/DSS">[Code]</a></p>   
   </sub>
 </blockquote>
  
