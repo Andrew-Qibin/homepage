@@ -6,7 +6,7 @@ After that, he is a research fellow at National University of Singapore working 
   
 Research Interests
 
-`Semantic Segmentation` `Instance Segmentation` `Object Detection` `Salient Object Detection` 
+`Semantic Segmentation` `Instance Segmentation` `Object Detection`
 `Architecture Design` `Neural Architecture Search`.    
   
   
