@@ -1,5 +1,4 @@
 
-## Introduction
 
 <img align="left" width="150" height="180" src="https://github.com/Andrew-Qibin/homepage/raw/master/houqb.jpg">
 
