@@ -20,8 +20,8 @@ Research Interests
 
 ## Activities
 
-<blockquote style="color: black;  border-width: 15px; border-color: #444400">
-  <h2>Deeply Supervised Salient Object Detection with Short Connections</h2>
+<blockquote style="color: black;  border-width: 15px; border-color: #33">
+  <h3>Deeply Supervised Salient Object Detection with Short Connections</h3>
   <p>bar baz</p>
   <p>bar baz</p>
   <p>bar baz</p>
