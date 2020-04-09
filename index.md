@@ -31,13 +31,12 @@
   <sub>**Qibin Hou**, Ming-Ming Cheng, Xiaowei Hu, Ali Borji, Zhuowen Tu, Philip Torr  
   IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017   
   IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2019   
-  [PDF] [Project page] <font color="#660000">[Code]</font></sub>
+  [PDF](https://arxiv.org/pdf/1611.04849.pdf) [Project page](https://mmcheng.net/dss/) <font color="#660000">[Code](https://github.com/Andrew-Qibin/DSS)</font></sub>()
   
   
->  ***Deeply Supervised Salient Object Detection with Short Connections***       
-  <sub>**Qibin Hou**, Ming-Ming Cheng, Xiaowei Hu, Ali Borji, Zhuowen Tu, Philip Torr  
-  IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017   
-  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2019   
+>  ***Strip Pooling: Rethinking Spatial Pooling for Scene Parsing***       
+  <sub>**Qibin Hou**, Li Zhang, Ming-Ming Cheng, Jiashi Feng 
+  IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020   
   [PDF] [Project page] <font color="#660000">[Code]</font></sub>   
 
 >  ***Deeply Supervised Salient Object Detection with Short Connections***       
