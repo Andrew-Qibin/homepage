@@ -20,7 +20,12 @@ Research Interests
 
 ## Activities
 
-
+<blockquote>
+  <blockquote>
+  <h2>Foo</h2>
+  <p>bar baz</p>
+  </blockquote>
+</blockquote>
 
 ## Selected Publications ([Google Scholar](https://scholar.google.com/citations?user=fF8OFV8AAAAJ&hl=en))
 
