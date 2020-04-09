@@ -3,11 +3,13 @@ theme: minima  #jekyll-theme-cayman
 title: Qibin Hou's Homepage
 
 # User settings
-author: Qibin Hou
-username: Qibin Hou
+author:
+  name: Qibin Hou
+  email: andrewhoux@gmail.com
+# username: Qibin Hou
 user_description: I'm a research fellow at NUS
 user_title: Research Fellow
-email: andrewhoux@gmail.com
+
 description: > # this means to ignore newlines until "show_excerpts:"
   I am currently a research fellow at NUS working with Prof. Jiashi Feng.
 
