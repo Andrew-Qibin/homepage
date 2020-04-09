@@ -38,6 +38,16 @@ Research Interests
   IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020   
   [[PDF]](https://arxiv.org/pdf/2003.13328.pdf) [<font color="#CC0000">[Code]</font>](https://github.com/Andrew-Qibin/SPNet)</sub>   
   
+>  ***Improving Convolutional Networks with Self-Calibrated Convolutions***       
+  <sub>Jiang-Jiang Liu*, **Qibin Hou** *, Ming-Ming Cheng, Changhu Wang, Jiashi Feng    
+  IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020   
+  [[PDF]](https://arxiv.org/pdf/2003.13328.pdf) <font color="#CC0000">[Code coming soon]</font> </sub>   
+  
+>  ***Neural Epitome Search for Architecture-Agnostic Network Compression***       
+  <sub>Daquan Hou, Xiaojie Jin, **Qibin Hou**, Kaixin Wang, Jianchao Yang, Jiashi Feng   
+  The International Conference on Learning Representations (ICLR), 2020   
+  [[PDF]](https://arxiv.org/pdf/1907.05642.pdf) <font color="#CC0000">[Code coming soon]</font></sub>  
+  
   
 >  ***A Simple Pooling-Based Design for Real-Time Salient Object Detection***       
   <sub>Jiang-Jiang Liu*, **Qibin Hou** *, Ming-Ming Cheng, Jiashi Feng, Jianmin Jiang  
