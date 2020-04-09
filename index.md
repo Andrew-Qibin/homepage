@@ -27,6 +27,8 @@
 
 ## Selected Publications ([Google Scholar](https://scholar.google.com/citations?user=fF8OFV8AAAAJ&hl=en))
 
+#### "*" means authors contributed equally
+
 >  ***Deeply Supervised Salient Object Detection with Short Connections***       
   <sub>**Qibin Hou**, Ming-Ming Cheng, Xiaowei Hu, Ali Borji, Zhuowen Tu, Philip Torr  
   IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017   
@@ -35,14 +37,18 @@
   
   
 >  ***Strip Pooling: Rethinking Spatial Pooling for Scene Parsing***       
-  <sub>**Qibin Hou**, Li Zhang, Ming-Ming Cheng, Jiashi Feng 
+  <sub>**Qibin Hou**, Li Zhang, Ming-Ming Cheng, Jiashi Feng  
   IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020   
-  [PDF] [Project page] <font color="#660000">[Code]</font></sub>   
+  [[PDF]](https://arxiv.org/pdf/2003.13328.pdf) <font color="#660000">[[Code]](https://github.com/Andrew-Qibin/SPNet)</font></sub>   
+  
+>  ***A Simple Pooling-Based Design for Real-Time Salient Object Detection***       
+  <sub>Jiang-Jiang Liu*, **Qibin Hou***, Ming-Ming Cheng, Jiashi Feng, Jianmin Jiang  
+  IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2019   
+  [[PDF]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_A_Simple_Pooling-Based_Design_for_Real-Time_Salient_Object_Detection_CVPR_2019_paper.pdf) <font color="#660000">[[Code]](https://github.com/backseason/PoolNet)</font></sub>   
 
->  ***Deeply Supervised Salient Object Detection with Short Connections***       
-  <sub>**Qibin Hou**, Ming-Ming Cheng, Xiaowei Hu, Ali Borji, Zhuowen Tu, Philip Torr  
-  IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017   
-  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2019   
-  [PDF] [Project page] <font color="#660000">[Code]</font></sub>   
+>  ***Self-Earsing Networks for Integral Object Attention***       
+  <sub>**Qibin Hou**, Peng-Tao Jiang, Yunchao Wei, Ming-Ming Cheng  
+  Advances in Neural Information Processing Systems (NeurIPS), 2018  
+  [[PDF]](https://papers.nips.cc/paper/7336-self-erasing-network-for-integral-object-attention.pdf)  <font color="#660000">[[Code]](https://github.com/Andrew-Qibin/SeeNet)</font></sub>   
   
   
