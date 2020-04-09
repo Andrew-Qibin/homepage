@@ -20,7 +20,7 @@ Research Interests
 
 ## Activities
 
-<blockquote style="color: blue;  border-width: 15px;">
+<blockquote style="color: blue;  border-width: 15px; border-color: orange">
   <h2>Deeply Supervised Salient Object Detection with Short Connections</h2>
   <p>bar baz</p>
   <p>bar baz</p>
@@ -31,7 +31,7 @@ Research Interests
 
 #### "*" means authors contributed equally
  
->> ***Deeply Supervised Salient Object Detection with Short Connections***      
+> ***Deeply Supervised Salient Object Detection with Short Connections***      
   <sub> **Qibin Hou**, Ming-Ming Cheng, Xiaowei Hu, Ali Borji, Zhuowen Tu, Philip Torr    
   IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017      
   IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2019          
