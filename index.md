@@ -1,5 +1,5 @@
 
-## Publications
+## Introduction
 
 ![A picture of a cat](https://github.com/Andrew-Qibin/homepage/raw/master/houqb.jpg)
 
@@ -8,8 +8,10 @@ At present, he is a research fellow at National University of Singapore working 
 
 ## News
 
-+ One paper was accepted by ICCV2019
-+ Two papers were accepted by CVPR2019
++ Two paper accepted by CVPR2020
++ One paper accepted by ICLR2020
++ One paper accepted by ICCV2019
++ Two papers accepted by CVPR2019
 
 ## Activities
 
@@ -18,7 +20,7 @@ At present, he is a research fellow at National University of Singapore working 
 
 ## Publications
 
->  ***Deeply Supervised Salient Object Detection with Short Connections***       
+>>  ***Deeply Supervised Salient Object Detection with Short Connections***       
   <sub>**Qibin Hou**, Ming-Ming Cheng, Xiaowei Hu, Ali Borji, Zhuowen Tu, Philip Torr  
   IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017   
   IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2019   
