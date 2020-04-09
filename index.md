@@ -1,7 +1,7 @@
 
 ## Introduction
 
-![A picture of a cat](https://github.com/Andrew-Qibin/homepage/raw/master/houqb.jpg)
+<img align="left" width="100" height="120" src="https://github.com/Andrew-Qibin/homepage/raw/master/houqb.jpg">
 
 Qibin Hou received his Ph.D. degree from Nankai University under the supervision of Prof. Ming-Ming Cheng.
 At present, he is a research fellow at National University of Singapore working with Prof. Jiashi Feng.
@@ -20,7 +20,7 @@ At present, he is a research fellow at National University of Singapore working 
 
 ## Publications
 
->>  ***Deeply Supervised Salient Object Detection with Short Connections***       
+>  ***Deeply Supervised Salient Object Detection with Short Connections***       
   <sub>**Qibin Hou**, Ming-Ming Cheng, Xiaowei Hu, Ali Borji, Zhuowen Tu, Philip Torr  
   IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2017   
   IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2019   
