@@ -20,7 +20,7 @@ Research Interests
 
 ## Activities
 
-<blockquote style="background-color: white;  border-width: 10px; border-style: solid;">
+<blockquote style="color: blue;  border-width: 10px;">
   <h2>Foo</h2>
   <p>bar baz</p>
 </blockquote>
