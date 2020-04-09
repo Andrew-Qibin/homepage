@@ -1,7 +1,7 @@
 
+![A picture of me](https://github.com/Andrew-Qibin/homepage/raw/master/photo.jpeg){: style="float: right; margin-right: 7px; margin-top: 0px;" height="160" width="120"}
 
-
-<img align="right" height="160" width="120" src="https://github.com/Andrew-Qibin/homepage/raw/master/photo.jpeg"> Qibin Hou received his Ph.D. degree from Nankai University under the supervision of Prof. Ming-Ming Cheng in 06/2019.
+Qibin Hou received his Ph.D. degree from Nankai University under the supervision of Prof. Ming-Ming Cheng in 06/2019.
 After that, he is a research fellow at National University of Singapore working with Prof. Jiashi Feng.
   
 Research Interests
