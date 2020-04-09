@@ -1,26 +1,16 @@
 
 
-<img align=”left” width="150" height="180" src=”https://github.com/Andrew-Qibin/homepage/raw/master/houqb.jpg”>
+  
 
   Qibin Hou received his Ph.D. degree from Nankai University under the supervision of Prof. Ming-Ming Cheng in 2019.6.
   After that, he is a research fellow at National University of Singapore working with Prof. Jiashi Feng.
+  
+<img align="left" src=”https://github.com/Andrew-Qibin/homepage/raw/master/houqb.jpg”> 
   
   Research Interests
 
   `Semantic Segmentation` `Instance Segmentation` `Object Detection` `Salient Object Detection` 
   `Architecture Design` `Neural Architecture Search`.    
-  
-  
-
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <img align=”left” width="150" height="180" src=”https://github.com/Andrew-Qibin/homepage/raw/master/houqb.jpg”>
-  
-  <dd>Qibin Hou received his Ph.D. degree from Nankai University under the supervision of Prof. Ming-Ming Cheng in 2019.6.
-  After that, he is a research fellow at National University of Singapore working with Prof. Jiashi Feng. </dd>
-</dl>
   
   
 
