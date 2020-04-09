@@ -24,7 +24,7 @@ Research Interests
   <h4>Deeply Supervised Salient Object Detection with Short Connections</h4>
   <sub><p style="line-height:5px">Qibin Hou, Ming-Ming Cheng, Xiaowei Hu, Ali Borji, Zhuowen Tu, Philip Torr</p>
   <p style="line-height:5px">IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2019</p>
-  <a href="https://arxiv.org/pdf/1611.04849.pdf">Arxiv</a> <a href="https://github.com/Andrew-Qibin/DSS">Code</a>
+  <a href="https://arxiv.org/pdf/1611.04849.pdf">[Arxiv]   </a> <a href="https://github.com/Andrew-Qibin/DSS">[Code]</a>
   </sub>
 </blockquote>
 
